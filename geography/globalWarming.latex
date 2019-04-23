@@ -1,0 +1,46 @@
+\documentclass{beamer}
+
+\newcommand*\chem[1]{\ensuremath{\mathrm{#1}}}
+
+\title{Global warming}
+\author{Peoples}
+
+\usecolortheme{fly}
+\setbeamercolor{background canvas}{bg=black}
+\setbeamercolor{normal text}{fg=white}
+\usefonttheme{serif}
+\setbeamertemplate{navigation symbols}{}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}{Greenhouse gases}
+  \begin{columns}
+    \begin{column}{0.3\textwidth}
+      \begin{itemize}
+        \item \(\chem{CO_2}\)
+        \item \(\chem{O_3}\)
+        \item \(\chem{CH_4}\)
+        \item \(\chem{H_2O}\)
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.7\textwidth}
+      \begin{overprint}[\textwidth]
+        \onslide<1> \includegraphics[width=\textwidth]{greenhouseEffect.jpeg}
+        \onslide<2> \includegraphics[width=\textwidth]{tempGraph.png}
+      \end{overprint}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+\begin{frame}{How is greenhouse gas formed?}
+  \begin{itemize}
+    \item Cows
+    \item Burning of fossil fuels
+    \item Deforestation
+    \item Ocean pollution
+  \end{itemize}
+\end{frame}
+
+\end{document}

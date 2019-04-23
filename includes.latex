@@ -1,0 +1,8 @@
+\usepackage{setspace}
+\usepackage{titling}
+\usepackage{lipsum}
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage[pdfusetitle]{hyperref}
+\usepackage{luacode}

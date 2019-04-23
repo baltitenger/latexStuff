@@ -1,0 +1,27 @@
+\documentclass[11pt]{article}
+%\documentclass[11pt, margin=5, convert]{standalone}
+
+%\usepackage[ngerman]{babel} % vim: set spelllang=en:
+%\usepackage[a5paper, top = 1in, bottom = 1in]{geometry}
+
+\input{../includes.latex}
+%\input{../lua.latex}
+
+\setstretch{1.2}
+\setlength{\droptitle}{-6em}
+%\pagenumbering{gobble}
+%\setcounter{secnumdepth}{0}
+%\renewcommand{\thesection}{\Roman{section}} 
+%\renewcommand{\thesubsection}{\arabic{subsection}}
+%\renewcommand{\labelenumi}{\alph{enumi})}
+
+\title{Template}
+\author{Baltazár Radics}
+
+\begin{document} %\begin{minipage}{\textwidth}
+%\color{white} \pagecolor{black}
+\maketitle
+
+\lipsum{}
+
+\end{document}
