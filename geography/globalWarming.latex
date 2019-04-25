@@ -50,11 +50,23 @@
   \end{itemize}
 \end{frame}
 
-\note{\texttt{TODO} effects:
+\note{%
   \begin{itemize}
-    \item economic
-    \item dolgok halnak meg
-    \item climate (részletesen)
+    \item causes (gases, poverty related)
+    \item how it happens (emissions, pollutions)
+    \item effects:
+      \begin{itemize}
+        \item environmental (ice, pasture, sea level rise)
+        \item social (protests, deniers)
+        \item political (floods, extreme weather)
+      \end{itemize}
+    \item solutions:
+      \begin{itemize}
+        \item alternative energy sources (solar, wind, hydraulic, nuclear)
+        \item advanced countries
+        \item crowd-funded projects (4Ocean)
+        \item our current investments
+      \end{itemize}
   \end{itemize}
 }
 
