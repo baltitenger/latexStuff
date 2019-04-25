@@ -6,3 +6,4 @@
 \usepackage{xcolor}
 \usepackage[pdfusetitle]{hyperref}
 \usepackage{luacode}
+\usepackage{siunitx}

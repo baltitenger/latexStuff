@@ -1,5 +1,7 @@
 \documentclass{beamer}
 
+\usepackage{pgfpages}
+
 \newcommand*\chem[1]{\ensuremath{\mathrm{#1}}}
 
 \title{Global warming}
@@ -10,6 +12,7 @@
 \setbeamercolor{normal text}{fg=white}
 \usefonttheme{serif}
 \setbeamertemplate{navigation symbols}{}
+\setbeameroption{show notes on second screen}
 
 \begin{document}
 
@@ -19,9 +22,12 @@
   \begin{columns}
     \begin{column}{0.3\textwidth}
       \begin{itemize}
+        \note<1>{carbon dioxide, ozone, methane and water vapour \\}
         \item \(\chem{CO_2}\)
+          \note<1>{\(\chem{CO_2}\): deforestation: by fire, trees don't trap \(\chem{CO_2}\) no more, ocean pollution: kills \(\chem{CO_2}\) consuming algae \\}
         \item \(\chem{O_3}\)
         \item \(\chem{CH_4}\)
+          \note<1>{methane: cows \\}
         \item \(\chem{H_2O}\)
       \end{itemize}
     \end{column}
@@ -30,6 +36,7 @@
         \onslide<1> \includegraphics[width=\textwidth]{greenhouseEffect.jpeg}
         \onslide<2> \includegraphics[width=\textwidth]{tempGraph.png}
       \end{overprint}
+      \note<2>{politicians claim: only due to the regular cycles in the Earth's \(\chem{CO_2}\) concentration \\}
     \end{column}
   \end{columns}
 \end{frame}
@@ -42,5 +49,13 @@
     \item Ocean pollution
   \end{itemize}
 \end{frame}
+
+\note{\texttt{TODO} effects:
+  \begin{itemize}
+    \item economic
+    \item dolgok halnak meg
+    \item climate (részletesen)
+  \end{itemize}
+}
 
 \end{document}

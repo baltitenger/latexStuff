@@ -3,6 +3,16 @@
     local str = string.gsub(string.format("%.4g", x), "e%+?(%-?)0*(%d*)", "\\cdot10^{%1%2}")
     return str
   end
+  pi = math.pi
+  function sin(a)
+    return math.sin(a/360*2*pi)
+  end
+  function cos(a)
+    return math.cos(a/360*2*pi)
+  end
+  function tan(a)
+    return math.tan(a/360*2*pi)
+  end
 \end{luacode*}
 \def\bind#1#2{\luadirect{#1 = #2}\get{#1}}
 \def\binda#1#2{\luadirect{#1 = #2}\geta{#1}}
