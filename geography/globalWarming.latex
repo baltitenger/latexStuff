@@ -54,12 +54,17 @@
   \begin{columns}
     \begin{column}{0.5\textwidth}
       \begin{itemize}
-        \item Melting icecaps
         \item Mean temperature rising
+        \\\hskip1cm \textdownarrow
+        \item Melting icecaps
+        \\\hskip1cm \textdownarrow
         \item Sea level rising
         \item More extreme weather
           \begin{itemize}
             \item floods
+            \item hurricanes
+            \item tornadoes
+            \item droughts
           \end{itemize}
       \end{itemize}
     \end{column}
