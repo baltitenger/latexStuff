@@ -91,12 +91,26 @@
   \end{itemize}
 \end{frame}
 
+%Lilivel együtt: 
+%4 "There is no consensus"				97% of climate experts agree humans are causing global warming.
+%23 "It's freaking cold!"				A local cold day has nothing to do with the long-term trend of increasing global temperatures.
+%32 "Climate scientists are in it for the money"		Climate scientists could make far more money in other careers - most notably, working for the oil industry.
+%108 "It's not urgent"					A large amount of warming is delayed, and if we don't act now we could pass tipping points.
+%171 "Renewable energy investment kills jobs"		Investment in renewable energy creates more jobs than investment in fossil fuel energy.
+
 \begin{frame}{Electronic Devices}
   \begin{itemize}
     \item Purchase energy-efficient gadgets
     \item Unplug devices
     \item Add solar panels
   \end{itemize}
+  \note{%
+    \begin{itemize}
+      \item Efficient battery chargers could save more than one billion kilowatt-hours of electricity and thus prevent the release of more than one million tons of greenhouse gases.
+      \item According to the EPA (Environmental Protection Agency), replacing just one incandescent light bulb in every American home would save enough energy to provide electricity to three million American homes.
+      \item US citizens spend more money on electricity to power devices when off than when on.
+    \end{itemize}
+  }
 \end{frame}
 
 \begin{frame}{Shopping}
