@@ -12,7 +12,7 @@
 \setbeamercolor{normal text}{fg=white}
 \usefonttheme{serif}
 \setbeamertemplate{navigation symbols}{}
-\setbeameroption{show notes on second screen}
+%\setbeameroption{show notes on second screen}
 
 \begin{document}
 
@@ -22,30 +22,51 @@
   \begin{columns}
     \begin{column}{0.2\textwidth}
       \begin{itemize}
-        \note{carbon dioxide, ozone, methane and water vapour \\}
         \item \(\chem{CO_2}\)
-          \note{\(\chem{CO_2}\): deforestation: by fire, trees don't trap \(\chem{CO_2}\) no more, ocean pollution: kills \(\chem{CO_2}\) consuming algae \\}
         \item \(\chem{O_3}\)
         \item \(\chem{CH_4}\)
-          \note{methane: cows \\}
         \item \(\chem{H_2O}\)
       \end{itemize}
     \end{column}
-    \begin{column}{0.8\textwidth}
+    \begin{column}<2>{0.8\textwidth}
       \includegraphics[width=\textwidth]{greenhouseEffect.jpeg}
-        \note{politicians claim: only due to the regular cycles in the Earth's \(\chem{CO_2}\) concentration \\}
     \end{column}
   \end{columns}
 \end{frame}
-%        \onslide<2> \includegraphics[width=\textwidth]{tempGraph.png}
 
 \begin{frame}{How does the greenhouse effect grow?}
   \begin{itemize}
-    \item Cows
-    \item Burning of fossil fuels
-    \item Deforestation
-    \item Ocean pollution
+    \item Creation of gases
+      \begin{itemize}
+        \item Animals (especially cows)
+        \item Burning of fossil fuels
+        \item Deforestation by fire
+      \end{itemize}
+    \item Prevention of normalisation
+      \begin{itemize}
+        \item Deforestation
+        \item Ocean pollution
+      \end{itemize}
   \end{itemize}
+\end{frame}
+
+\begin{frame}{Effects}
+  \begin{columns}
+    \begin{column}{0.5\textwidth}
+      \begin{itemize}
+        \item Melting icecaps
+        \item Mean temperature rising
+        \item Sea level rising
+        \item More extreme weather
+          \begin{itemize}
+            \item floods
+          \end{itemize}
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.5\textwidth}
+      \includegraphics[width=\textwidth]{draught.jpeg}
+    \end{column}
+  \end{columns}
 \end{frame}
 
 \note{%
