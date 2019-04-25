@@ -4,7 +4,7 @@
 
 \newcommand*\chem[1]{\ensuremath{\mathrm{#1}}}
 
-\title{Global warming}
+\title{Climate change}
 \author{Peoples}
 
 \usecolortheme{fly}
@@ -91,24 +91,55 @@
   \end{itemize}
 \end{frame}
 
-\note{%
+\begin{frame}{Electronic Devices}
   \begin{itemize}
-    \item causes (gases, poverty related)
-    \item how it happens (emissions, pollutions)
-    \item effects:
-      \begin{itemize}
-        \item environmental (ice, pasture, sea level rise)
-        \item social (protests, deniers)
-        \item political (floods, extreme weather)
-      \end{itemize}
-    \item solutions:
-      \begin{itemize}
-        \item alternative energy sources (solar, wind, hydraulic, nuclear)
-        \item advanced countries
-        \item crowd-funded projects (4Ocean)
-        \item our current investments
-      \end{itemize}
+    \item Purchase energy-efficient gadgets
+    \item Unplug devices
+    \item Add solar panels
   \end{itemize}
-}
+\end{frame}
+
+\begin{frame}{Shopping}
+  \begin{itemize}
+    \item Shop in bulk
+    \item Buy local products
+    \item Use reusable grocery sacks
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{``Eat food. Not too much. Mostly plants.'' --- Michael Pollan}
+  \begin{columns}
+    \begin{column}{0.5\textwidth}
+      \begin{itemize}
+        \item Consume less meat
+        \item Cattle --- 9.4\% of ALL greenhouse gas emissions
+        \item Buy organic and local food
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.5\textwidth}
+      \includegraphics[width=\textwidth]{cowBurps.png}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+%\note{%
+%  \begin{itemize}
+%    \item causes (gases, poverty related)
+%    \item how it happens (emissions, pollutions)
+%    \item effects:
+%      \begin{itemize}
+%        \item environmental (ice, pasture, sea level rise)
+%        \item social (protests, deniers)
+%        \item political (floods, extreme weather)
+%      \end{itemize}
+%    \item solutions:
+%      \begin{itemize}
+%        \item alternative energy sources (solar, wind, hydraulic, nuclear)
+%        \item advanced countries
+%        \item crowd-funded projects (4Ocean)
+%        \item our current investments
+%      \end{itemize}
+%  \end{itemize}
+%}
 
 \end{document}
