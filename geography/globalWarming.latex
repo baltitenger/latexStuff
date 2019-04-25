@@ -78,10 +78,10 @@
   Reasons:
   \begin{itemize}
     \item Popularity and financial benefits \leftrightarrow{} Going green
+    \item Restrictions needed \leftrightarrow{} Popularity
     \item Special interest groups
   \end{itemize}
-  TLDR:\@ There's more money in oil than in solar panels
-
+  \vskip 1cm
   Results:
   \begin{itemize}
     \item Inaction
@@ -92,22 +92,47 @@
 \begin{frame}{International treaties}
   \begin{itemize}
     \item UNFCCC
-        \begin{itemize}
-            \item Aim: Stop global warming
-            \item No enforcment
-            \item Framework for further treaties
-        \end{itemize}
+      \begin{itemize}
+        \item Aim: Stop global warming
+        \item No enforcment
+        \item Framework for further treaties
+      \end{itemize}
     \item Koyoto Protocol
-        \begin{itemize}
-            \item Extending UNFCCC
-            \item Restriction on the emittion of GHGs
-        \end{itemize}
+      \begin{itemize}
+        \item Extending UNFCCC
+        \item Restriction on the emittion of GHGs
+      \end{itemize}
     \item Paris Agreement
-        \begin{itemize}
-            \item Extending UNFCCC
-            \item Aim: Keeping global warming below \(2^{\circ}\)C
-        \end{itemize}
+      \begin{itemize}
+        \item Extending UNFCCC
+        \item Aim: Keeping global warming below \(2^{\circ}\)C
+      \end{itemize}
   \end{itemize}
+\end{frame}
+
+\begin{frame}{What can we do?}
+  People in power has no interest in taking action
+  \\\hskip1cm\textdownarrow\\
+  Civilian ways
+  \begin{itemize}
+    \item Living green
+    \item Raising awareness
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Protests}
+  \begin{itemize}
+    \item Extinction Rebellion - civil unrest
+      \includegraphics[width=5cm]{rebelForLife.jpg}
+    \item Greta Thunberg - School strike for climate
+      \includegraphics[width=5cm]{gretaThunberg.jpg}
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Extinction Rebellion}
+  \includegraphics[width=8cm]{buisinessAsUsual.jpeg}
+  \includegraphics[width=4cm]{massMurder.jpeg}
+  \includegraphics[width=4cm]{extinction.jpeg}
 \end{frame}
 
 %Lilivel együtt: 
