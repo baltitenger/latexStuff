@@ -20,28 +20,26 @@
 
 \begin{frame}{Greenhouse gases}
   \begin{columns}
-    \begin{column}{0.3\textwidth}
+    \begin{column}{0.2\textwidth}
       \begin{itemize}
-        \note<1>{carbon dioxide, ozone, methane and water vapour \\}
+        \note{carbon dioxide, ozone, methane and water vapour \\}
         \item \(\chem{CO_2}\)
-          \note<1>{\(\chem{CO_2}\): deforestation: by fire, trees don't trap \(\chem{CO_2}\) no more, ocean pollution: kills \(\chem{CO_2}\) consuming algae \\}
+          \note{\(\chem{CO_2}\): deforestation: by fire, trees don't trap \(\chem{CO_2}\) no more, ocean pollution: kills \(\chem{CO_2}\) consuming algae \\}
         \item \(\chem{O_3}\)
         \item \(\chem{CH_4}\)
-          \note<1>{methane: cows \\}
+          \note{methane: cows \\}
         \item \(\chem{H_2O}\)
       \end{itemize}
     \end{column}
-    \begin{column}{0.7\textwidth}
-      \begin{overprint}[\textwidth]
-        \onslide<1> \includegraphics[width=\textwidth]{greenhouseEffect.jpeg}
-        \onslide<2> \includegraphics[width=\textwidth]{tempGraph.png}
-      \end{overprint}
-      \note<2>{politicians claim: only due to the regular cycles in the Earth's \(\chem{CO_2}\) concentration \\}
+    \begin{column}{0.8\textwidth}
+      \includegraphics[width=\textwidth]{greenhouseEffect.jpeg}
+        \note{politicians claim: only due to the regular cycles in the Earth's \(\chem{CO_2}\) concentration \\}
     \end{column}
   \end{columns}
 \end{frame}
+%        \onslide<2> \includegraphics[width=\textwidth]{tempGraph.png}
 
-\begin{frame}{How is greenhouse gas formed?}
+\begin{frame}{How does the greenhouse effect grow?}
   \begin{itemize}
     \item Cows
     \item Burning of fossil fuels
